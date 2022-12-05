@@ -1,3 +1,3 @@
-Manage a list of tasks
+Manage a list of tasks (Java Swing)
 
 ![](demo.gif)
