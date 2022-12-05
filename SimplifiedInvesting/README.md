@@ -1,3 +1,3 @@
-Visualize simple vs compound interest
+Visualize simple vs compound interest (JavaScript, HTML/CSS, Firebase)
 
 ![](demo.gif)
