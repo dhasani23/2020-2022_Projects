@@ -1,3 +1,3 @@
-Maintain a digital library (React, Express, Firebase)
+Maintain a digital library. Built with React, Express, Firebase.
 
 ![](demo.gif)
